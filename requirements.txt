@@ -1,0 +1,10 @@
+httpx
+aiohttp
+python-dotenv 
+google-generativeai
+langgraph
+langchain
+pydantic
+tavily
+bs4
+requests
