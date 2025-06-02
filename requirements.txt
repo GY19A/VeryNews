@@ -5,6 +5,7 @@ google-generativeai
 langgraph
 langchain
 pydantic
-tavily
+tavily-python
 bs4
 requests
+pdfminer.six
